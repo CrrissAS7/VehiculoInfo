@@ -65,7 +65,7 @@ java VehiculoInfo
 ## 🧑‍💻 Autor
 
 **Cristóbal**  
-Estudiante del curso [Nombre del curso]  
 Villarrica, Chile  
 Profesor: Iván Ayala
+
 
